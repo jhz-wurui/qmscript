@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<MacroExtension>
+	<Annotations>
+		<保存线程与句柄关系 Color="0000FF" >
+			<![CDATA[hwnd:绑定时所用句柄
+外层句柄:外层句柄]]>
+		</保存线程与句柄关系>
+	</Annotations>
+</MacroExtension>
