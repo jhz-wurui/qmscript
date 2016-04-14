@@ -8,7 +8,7 @@ StopHotkey=123
 StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
-MacroID=97efd84e-adbe-4af3-829a-3f6ce8830a9a
+MacroID=bfa727e5-2f85-4928-b210-b3d6e3585c7d
 Description=棋牌游戏-喊喇叭
 Enable=0
 AutoRun=0
@@ -27,7 +27,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQIbtPUyG7T1Ps/XlUE8kf
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -45,49 +45,54 @@ Dim 延时, 颜色色偏, 相似度
 
 Call Lib.DMEX.dmzcDefault()
 
-最外层_hwnd = dm.FindWindow("1378GameCenter", "1378游戏中心")
+喇叭类型 = ""
+// 大喇叭小喇叭
+If Form1.ComboBox1.ListIndex = 0 Then 
+    喇叭类型 = "大喇叭"
+ElseIf Form1.ComboBox1.ListIndex = 1 Then
+    喇叭类型 = "小喇叭"
+End If
 
-hwnd = dm.FindWindowEx(最外层_hwnd,"","-")
+TracePrint "喇叭类型："&喇叭类型
 
-TracePrint hwnd
+最外层_hwnd = dm.FindWindow("testGamePlaza", "KK竞技")
 
-hwnds = dm.EnumWindow(hwnd, "", "Button", 2 + 4 + 16)
-
-TracePrint hwnds
-
-hwnds = split(hwnds,",")
-
-喇叭_hwnd = clng(hwnds(4))
+喇叭_hwnd = 最外层_hwnd
 
 TracePrint 喇叭_hwnd
 
 If 喇叭_hwnd = 0 Then 
-	MessageBox "请进入房间再启动脚本!"
-	EndScript 
+    MessageBox "请进入房间再启动脚本!"
+    EndScript 
 End If
-
 While True
-	Call Plugin.Bkgnd.LeftClick(喇叭_hwnd,6,6)
+    Call Plugin.Bkgnd.LeftClick(喇叭_hwnd,860,689)
 	
-	Delay 500
+    Delay 500
 	
-	弹出_hwnd = dm.FindWindowEx(0, "#32770", "您能")
-	TracePrint "弹出_hwnd:"&弹出_hwnd
-	If 弹出_hwnd <> 0 Then 
-		hwnd = dm.FindWindowEx(弹出_hwnd, "Edit", "")
+    弹出_hwnd = dm.FindWindowEx(0, "CUiTrumpet", "")
+    TracePrint "弹出_hwnd:" & 弹出_hwnd
+  
+    If 弹出_hwnd <> 0 Then 
+        If 喇叭类型 = "大喇叭" Then 
+            Call Plugin.Bkgnd.LeftClick(弹出_hwnd, 75, 44)
+        ElseIf 喇叭类型 = "小喇叭" Then
+            Call Plugin.Bkgnd.LeftClick(弹出_hwnd, 153,45)
+        End If
+        Delay 300
+         
+        Call Plugin.Bkgnd.LeftClick(弹出_hwnd, 69, 178)
 		
-		TracePrint "edit:" & hwnd
+        Delay 200
+				 
+        SayString 内容
+        
+        Delay 200
 		
-		dm.SendString hwnd, 内容
-		
-		hwnd = dm.FindWindowEx(弹出_hwnd, "Button", "确定")
-
-		TracePrint "确定:" & hwnd
-		
-		Call Plugin.Bkgnd.LeftClick(hwnd,6,6)
-	End If
+        Call Plugin.Bkgnd.LeftClick(弹出_hwnd, 164, 299)        
+    End If
 	
-	Delay 间隔
+    Delay 间隔
 Wend
  
 Sub OnScriptExit()
@@ -95,16 +100,6 @@ Sub OnScriptExit()
     Call Plugin.RegDll.UnReg("c:\fuzhu\dm.dll") 
 End Sub
 
-Event Form1.Button1.Click	
-    regCode = Form1.InputBox1.Text
-	
-    If Lib.字符串.isEmpty(regCode) Then 
-        MessageBox "注册码不可为空"
-    Else 
-        //此处的appid需要更改!
-        Call Lib.RC.activate(regCode, appId)		
-    End If	
-End Event
 Event Form1.Button2.Click
     Call Plugin.File.CreateFolder("c:\fuzhu")
     PutAttachment "c:\fuzhu", "Dbgview"
