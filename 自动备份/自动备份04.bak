@@ -1,0 +1,246 @@
+[General]
+SyntaxVersion=2
+MacroID=d9a0c44b-74c0-49ec-8a83-3e94a6a749e7
+[Comment]
+
+[Script]
+Function 绑定浏览器
+    hwnd = dm.FindWindow("", "作者小")
+    
+    //MessageBox hwnd
+    
+    dm_ret = dm.SetWindowState(hwnd,12)
+    
+    dm.MoveWindow hwnd, -1,-1
+    
+    hwnd = dm.FindWindowEx(hwnd,"Shell Embedding","") 
+    
+    hwnd = dm.FindWindowEx(hwnd, "Shell DocObject View", "")
+    
+    hwnd = dm.FindWindowEx(hwnd, "Internet Explorer_Server", "")
+    
+    //    MessageBox hwnd
+    
+    Call Lib.DMEX.BindWindow(hwnd, "gdi", "windows3", "windows", 0)
+
+    初始化 = Plugin.WebOperation.Initialize(hwnd)
+    
+    If 初始化 = false Then  
+        MsgBox "初始化失败！重新启动一次脚本！"
+        endscript
+    End If
+    
+    绑定浏览器 = hwnd
+End Function
+
+
+Sub 绑定浏览器带框架索引(index)
+    hwnd = dm.FindWindow("", "作者小")
+    
+    dm_ret = dm.SetWindowState(hwnd,12)
+    
+    dm.MoveWindow hwnd, -1,-1
+    
+    hwnd = dm.FindWindowEx(hwnd,"Shell Embedding","") 
+    
+    hwnd = dm.FindWindowEx(hwnd, "Shell DocObject View", "")
+    
+    hwnd = dm.FindWindowEx(hwnd, "Internet Explorer_Server", "")
+    
+    Call Lib.DMEX.BindWindow(hwnd, "gdi", "windows3", "windows", 0)
+
+    初始化 = Plugin.WebOperation.Initialize(hwnd,index)
+    If 初始化 = false Then  
+        MsgBox "初始化失败！重新启动一次脚本！"
+        endscript
+    End If    
+End Sub
+
+Sub 等待加载完成
+    Rem 加载
+
+    If Plugin.WebOperation.ReadyState Then 
+        TracePrint "加载完成"
+    Else 
+        //TracePrint "加载中"
+        delay 500
+        Goto 加载
+    End If
+End Sub
+
+Function 指定时间内等待加载完成(t)
+    Dim t1, result
+    result = False
+    t1 = time
+    Do
+        diff1 = abs(DateDiff("s", time, t1))
+        If diff1 > t Then 
+            TracePrint "【指定时间内等待加载完成】没有在指定时间内加载完成"
+            Exit Do
+        End If
+		
+        If Plugin.WebOperation.ReadyState Then 
+            TracePrint "【指定时间内等待加载完成】记载完成"
+            result = True
+            Exit Do
+        End If
+        Delay 100
+    Loop
+	
+    指定时间内等待加载完成=result	
+End Function
+
+//
+Function 等待加载完成到指定时间(miao)
+    Dim count, result
+    result=True
+    count=0
+    Rem 加载
+    If Plugin.WebOperation.ReadyState Then 
+        TracePrint "加载完成"
+    Else 
+        //TracePrint "加载中"
+        Delay 500
+        count = count + 1
+        If count > (clng(miao) * 1000 / 500) Then 
+            TracePrint "等待时间已过卡住了"
+            result = False
+            count = 0
+        Else 
+            Goto 加载
+        End If       
+    End If
+    等待加载完成到指定时间 = result
+End Function
+
+//大漠不绑定窗口模式
+Sub 绑定浏览器不绑定窗口
+    hwnd = dm.FindWindow("", "作者小")
+    
+    dm_ret = dm.SetWindowState(hwnd,12)
+    
+    dm.MoveWindow hwnd, -1,-1
+    
+    hwnd = dm.FindWindowEx(hwnd,"Shell Embedding","") 
+    
+    hwnd = dm.FindWindowEx(hwnd, "Shell DocObject View", "")
+    
+    hwnd = dm.FindWindowEx(hwnd, "Internet Explorer_Server", "")
+    
+    //Call Lib.DMEX.BindWindow(hwnd, "gdi", "windows3", "windows", 0)
+
+    初始化 = Plugin.WebOperation.Initialize(hwnd)
+    If 初始化 = false Then  
+        MsgBox "初始化失败！重新启动一次脚本！"
+        endscript
+    End If    
+End Sub
+
+Sub 绑定浏览器不绑定窗口带框架索引(index)
+    hwnd = dm.FindWindow("", "作者小")
+    
+    //dm.MoveWindow hwnd, -1,-1
+    
+    hwnd = dm.FindWindowEx(hwnd,"Shell Embedding","") 
+    
+    hwnd = dm.FindWindowEx(hwnd, "Shell DocObject View", "")
+    
+    hwnd = dm.FindWindowEx(hwnd, "Internet Explorer_Server", "")
+    
+    //Call Lib.DMEX.BindWindow(hwnd, "gdi", "windows3", "windows", 0)
+
+    初始化 = Plugin.WebOperation.Initialize(hwnd,index)
+    If 初始化 = false Then  
+        MsgBox "初始化失败！重新启动一次脚本！"
+        endscript
+    End If    
+End Sub
+
+
+Sub 等待指定元素出现(id,str)
+    Rem 等待
+    文本 = Plugin.WebOperation.GetElementText(id)
+    If len(Trim(文本)) = 0 or InStr(文本, str) = 0 Then 
+        Delay 100
+        Goto 等待
+    Else 
+        TracePrint "文本"&文本&"出现"
+    End If
+End Sub
+
+Function 指定时间内等待元素出现(id, str, 时间)
+    Dim result,count
+    result = False
+    count = 0
+    Rem 等待
+    文本 = Plugin.WebOperation.GetElementText(id)
+    文本1 = Plugin.WebOperation.GetInputValue (id)
+    If (len(Trim(文本)) = 0 or InStr(文本, str) = 0) and (len(Trim(文本1)) = 0 or InStr(文本1, str) = 0) Then 
+        Delay 100
+        count = count + 1
+        If count > (clng(时间) * 1000 / 100) Then 
+            TracePrint "等待的时间已经到了！"
+            Goto 结束
+        End If
+        Goto 等待
+    Else 
+        TracePrint "文本" &文本&文本1 & "出现"
+        result = True
+    End If
+    Rem 结束
+    指定时间内等待元素出现 = result
+End Function
+
+
+Sub 点击弹框的确定按钮()
+    Call Lib.DMEX.dmzcDefault()
+	
+    While True
+        hwnd = dm.FindWindow("#32770", "来自网页的消息")
+	
+        //TracePrint "等待中的句柄"&hwnd
+	
+        If hwnd <> 0 Then 
+            TracePrint hwnd
+	
+            hwnd = dm.FindWindowEx(hwnd, "Button", "确定")
+	
+            TracePrint hwnd
+            
+            Call Plugin.Bkgnd.LeftClick(Hwnd, 33, 12)
+            Delay 5000
+        End If
+        Delay 200
+    Wend
+End Sub
+
+Function 通过句柄绑定(hwnd, 框架索引)
+    Dim result
+    result = False
+    If 框架索引 = "" Then 
+        初始化 = Plugin.WebOperation.Initialize(hwnd)
+    Else 
+        初始化 = Plugin.WebOperation.Initialize (hwnd,框架索引)	
+    End If
+	
+    If  初始化  Then 
+        result = True
+    Else 
+        TracePrint "初始化失败"
+    End If
+    通过句柄绑定 = result
+End Function
+
+Sub 通过网址绑定无框架索引(url)
+    hwnd = Plugin.WebOperation.GethWnd(url)
+    初始化 = Plugin.WebOperation.Initialize(hwnd)
+    If not 初始化  Then 
+        MessageBox "初始化失败请重新启动一次!"
+        EndScript 
+    End If
+End Sub
+
+Sub 清空ie
+    Call Plugin.lxj_Plug.lxj_IEClear()
+    Call Plugin.lxj_Plug.lxj_ClearCache()
+End Sub
