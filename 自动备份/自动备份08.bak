@@ -8,8 +8,8 @@ StopHotkey=123
 StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
-MacroID=d7b24f0d-62f5-4d59-8a81-576b56312fd3
-Description=倩女幽魂v1.0_自动备份
+MacroID=f2ad3bef-9477-4a89-aca0-dbbad4cfe574
+Description=倩女幽魂v1.0
 Enable=0
 AutoRun=0
 [Repeat]
@@ -27,7 +27,7 @@ UEsDBBQAAgAIAEw5TD+cfTI/KxMAAABgAAAKABEAUmVnRGxsLmRsbFVUDQAHbj2VTvD4j1Tw+I9U7VwP
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -51,34 +51,89 @@ hwnd = dm.GetMousePointWindow()
 
 TracePrint hwnd
 
-Call Lib.DMEX.BindWindowex(330708, "dx.graphic.3d", "dx.mouse.position.lock.api|dx.mouse.position.lock.message", "normal","",103)
+DimEnv hwnd
 
-dm_ret = dm.Capture(0,0,2000,2000,"1.bmp")
+Call Lib.DMEX.BindWindowex(330708, "dx.graphic.3d", "dx.mouse.position.lock.api|dx.mouse.position.lock.message", "windows", "dx.public.active.api2", 103)
 
-RunApp "c:\fuzhu\1.bmp"
-EndScript 
+BeginThread 监控线程
+
 While True
-/*
-	dm_ret = dm.FindStr(0,0,800,600,"银两|银票","FEFEFE-010101",1.0,intX,intY)
+
+	dm_ret = dm.FindStr(300,200,500,400,"银两|银票","FEFEFE-010101",1.0,intX,intY)
 	If intX >= 0 and intY >= 0 Then 
 		TracePrint "找到银子"
      	dm.MoveTo intX + 10, intY + 10
      	Delay 500
-     	dm.leftclick
+     	dm.leftclick 
+     	Delay 2500
 	End If
-	Delay 2500
-	*/
-	dm.MoveToEx 224,169, 353, 256	
-	Call Lib.ICEFRAG.延迟(40,100)
-	dm.rightclick
-	Call Lib.ICEFRAG.延迟(100, 200)
+		
+    dm.MoveToEx 224,169, 353, 256	
+    Call Lib.ICEFRAG.延迟(10,50)
+    dm.rightclick
+    Call Lib.ICEFRAG.延迟(10, 20)
 Wend
 
-EndScript 
+
+/**
+	判断当前血蓝百分比
+**/
+Function 获取血量蓝量百分比()
+    TracePrint "[获取血量蓝量百分比]"	
+    Dim startx, endx,血y,血百分比,血条长度
+    startx = 75
+    endx = 183
+    血y = 38
+    血条长度 = endx - startx
+    血百分比 = 100
+    For i = 1 To 血条长度
+        // 定位没血的位置
+        dm_ret = dm.CmpColor(startx + i, 血y, "ae8409-050505",1.0)						
+        If dm_ret = 0 Then
+            血百分比 = Round(i / 血条长度,2)*100
+            TracePrint 血百分比
+            Exit For
+        End if
+    Next
+    获取血量蓝量百分比 = 血百分比
+End Function
+
+
+
+Sub 监控线程
+	TracePrint "[监控线程启动]"
+    Dim phwnd
+    phwnd = hwnd
+    
+    加血按键 = 112
+	加血百分比 = 0.5 * 100
+	
+    返回值 = Lib.公共库.注册大漠("5.1423","36578839980cb055f580ceb2eade88c0dd3100ebb")
+
+    dm_ret = dm.SetPath("c:\fuzhu")
+
+    dm_ret = dm.SetDict(0,"倩女幽魂-物品.txt")
+
+    Call Lib.DMEX.BindWindowex(phwnd, "dx.graphic.3d", "dx.mouse.position.lock.api|dx.mouse.position.lock.message", "windows", "dx.public.active.api2", 103)
+    	
+    While True
+    	If 获取血量蓝量百分比 < 加血百分比 Then 
+        	dm.keypress 加血按键
+    	End If
+    	Delay 1000     	
+    Wend
+    	
+End Sub
+ 
 Sub OnScriptExit()
     dm_ret = dm.UnBindWindow()
     Call Plugin.RegDll.UnReg("c:\fuzhu\dm.dll") 
 End Sub
+
+Sub OnThreadExit()
+    dm_ret = dm.UnBindWindow()
+End Sub
+
 
 Event Form1.Button1.Click	
     regCode = Form1.InputBox1.Text

@@ -8,7 +8,7 @@ StopHotkey=123
 StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
-MacroID=d7b24f0d-62f5-4d59-8a81-576b56312fd3
+MacroID=f2ad3bef-9477-4a89-aca0-dbbad4cfe574
 Description=倩女幽魂v1.0
 Enable=0
 AutoRun=0
@@ -27,7 +27,7 @@ UEsDBBQAAgAIAEw5TD+cfTI/KxMAAABgAAAKABEAUmVnRGxsLmRsbFVUDQAHbj2VTvD4j1Tw+I9U7VwP
 
 
 [UIPackage]
-UEsDBBQAAgAIAC4Nk0goE3U0agcAAAheAAAJABEAVUlQYWNrYWdlVVQNAAfDjBVXw4wVV8OMFVftXNtvlEUU/31bCi3U0lYoUC4WaBEKyK1clHu5FkpBWstFQJZSaGHZ1u0W4ck3/wceMTxpYtSIiZqIDz4Zk2Iw4cEHJdEXfdMEn6Se812603UL35kZOm7S05zOtt35ft/MnDlzfud82xIEcn+4+pfbn9Q9Qp7sQAmejJRjqvI7L1RfqoBE+POTkZGR6Ncjk1JU8g/plHANea1LSaeRlpOWkU4nfYF0BmkFaWWw9JhJWk36ImkN6SzSWtLZpHNI55HOJa0jXUA6n3QhaT3pItKXSBeTLiVdQtpAuoy0kfRl0hWky0mbSFeRriRdHd7nk8llsybH0U9fWVqXfUhTm8FNSKSWLCa6lveM994fvPrerVs/eCUIDYLkDbRiLfSlDJ4X4deO855v2gLcCF/92x50os3gDqYr+KXPwI9a9W+dNN8D6EE7krhGrVRqkPDxq0PfG7fflLCN9tOkFofalv39mWsG2w/cf51Bfw9mYtrfVD77+PvfTMYv2LLPpb+u38n5v8SYmC/umkW+kk+dJC4gpXkPleT/ZoRxSlz8hOL/utCHQVLdO6jSGH+Jgn+cUJO4iKM0Dynh2Rv5/4rwmnHxpyj4nYR/g859g/X3pOMvVdZ/D0UfKdKM5p3M0sCfqow/h99C69CNq3J8P16eKZj/aXnr3204/xyflwnwyxDE8KqcpU3xGMUn0xzjPy485/6xdKSjviOZHqzv6Mn0XXpO+I0fnjPqf5o8T4b8Tw991xH2v7PDPRXX/soV+2+jvSffdWPtvyq8Xlz86QX3fwfdRy/Ng+w0nEv7P+LAcfFnKPi7Kfof8M+ADGma7kF2CtXS+MsR8PK4+BUK/n4ae9rM/4jPP/ZX20bHn6LT9zLdA897Wsf/i/Erx6x/kuY/S/fA89Dir0N0EuRsY3xZrnH+zFTwW/zrB/svDl4B+/NmIZd3i9OnSsE39R+m8aeptKYHhrIt/TdM++vG8MXOXzrJ8rN+7Ktjfb7/Ee+/asX+jhH+DUJPURSuI5Ua+DVj9j/nf/QZHOd/mE/sRJDzLCQTkf9pRHz/z+dVWfjaBf9jf1UevrbB/ziXvEgw/tmwyv+8egS567j4tbDL/zjHPkeAPwdu+Z9aL7LA/8T2Nxd2+R+nspcK5n8e7PI/rqMsEODX4b/8T1dMz3+u+zwgvUxe8Q+N/q7PzxLH+Kb80wL/E++/+bDL/xrCPR0XfwHs8r+oVhkXfyHs8j+uly4R4C+CW/7H57VL/lcPNf5M0vk/iHdCHiaVGg38xQr+EQzRDDD/bCNNi2MQzn+yPa0UrP8SBb/YxZS/Nt3tNeo//3an0/G3DGWz/Wn9/u2+3V+jXZDSzj9I7X+pYn8HCe+6dvYj8H9NkOU/GvL8XzftwcEJ5L+NCj6fOhkfORVmn56//1uGfP67Xtt+1Ocf1ozznongv5Lx83k5ddT+J57/cqwQ1S1s8N+N1DYjvv9foax/4D/08x/Fnv96+P6nj0z6m/If0/Pruhfwp6+o/V2jv4v6dxPs5j82IXg2MC7+SrjNf6xCIf4xcfXv1bCb/2Dv8apg/l+B3fzHZmrXC/DXIJf/sFH/3ErtWgH+Wtjlv6+FcxoXf52Cn4BbKfb8iams+dyMfzTfM+tvI/+xHQGfj2t/62E3/7GB2i0C/A1wm/9oRi7/4aL+tVEZvy3+t0Mw/5tgl/9Jx78Zav4nQ+icAeqhU0B+D3Ua878F+fxrg4H9eX48cRT8LEFheRr/Ms1fHMj0Dw0Y1N+j/rozUOz844s7X/88/Ks7fBf8m2NFl/Vnjpds1p8Psh0L/N9W2K0/t0KW/9oGq/yLfBiwSzD+7XDLv/isivI/LvjXTljlX95eMI+IP/+7FHzT/MVNL7hWVyLY11JxHf8XO/8wzR/Z4N+HwH40vv3thlX+Lfb/LbDLv4+EY4qLvwdW689eO2T+fy+s8i/iUMBhwfj3wS3/4vvdNmoLxs/fivEPID/+bzYYf1B/ueDv5cLytM+/uoj/OF5yWX/heMlm/eUktScE9n8Ibj9/dhj59R/t6Q/769cPi/7zn3/e++Du39/9yDxOp7/r+pGN+sspcB4lvv23wW38z+d1RfjaRfzfDrv1F87gnBHM/1HYrb+cBv8fh/j4x2C3/sI7oEOA/zrsxn9nw2vGxT8Ou88fnqf2LQF+h4L/rhc8D37fC54LkIrr58gm60dm9R8b9Zcuat8U2F8n3Mb/7Ktc1l+6YL/+khTM/wm4rb+chNv6yynk86+NBvbnjeKPt3Mi3vV/4V98Xkf8y7R+bFo/ssM/9OtnRc8//vr2o4c/fTmsyz9c8G8+K2zyb47ergj83xm45d9nYff5txS13YLxn4Nb/sWxqkv+dR52+ddlavsF85+EXf7F/8CrV4B/ATn+5Tr/8CDkHw0JPf5RCrcy+fm/hPc2tZcE9tcNu/x7gNqLAvyLsMu/mTlkBPg9sPv8Wx+1aQH+JbjlX+wvXfKvXtjnX1nB/PfBLf+6Ant5G9fPr7r+/F2xiwv+fRV284ZSfNtSzPj/AlBLAQIXCxQAAgAIAC4Nk0goE3U0agcAAAheAAAJAAkAAAAAAAAAAAAAgAAAAABVSVBhY2thZ2VVVAUAB8OMFVdQSwUGAAAAAAEAAQBAAAAAogcAAAAA
+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
 
 
 [Script]
@@ -53,9 +53,14 @@ TracePrint hwnd
 
 DimEnv hwnd
 
-Call Lib.DMEX.BindWindowex(330708, "dx.graphic.3d", "dx.mouse.position.lock.api|dx.mouse.position.lock.message", "windows", "dx.public.active.api2", 103)
+// Call Lib.DMEX.BindWindowex(hwnd, "dx.graphic.3d", "dx.mouse.position.lock.api|dx.mouse.position.lock.message", "windows", "dx.public.active.api2|dx.public.fake.window.min", 103)
 
 BeginThread 监控线程
+/*
+Do
+	Delay 1000
+Loop
+*/
 
 While True
 
@@ -114,7 +119,8 @@ Sub 监控线程
 
     dm_ret = dm.SetDict(0,"倩女幽魂-物品.txt")
 
-    Call Lib.DMEX.BindWindowex(phwnd, "dx.graphic.3d", "dx.mouse.position.lock.api|dx.mouse.position.lock.message", "windows", "dx.public.active.api2", 103)
+    //Call Lib.DMEX.BindWindowex(phwnd, "dx.graphic.3d", "dx.mouse.position.lock.api|dx.mouse.position.lock.message", "windows", "dx.public.active.api2|dx.public.fake.window.min", 103)
+    Call Lib.DMEX.BindWindowex(phwnd, "dx.graphic.3d", "normal", "windows", "dx.public.active.api2", 103)
     	
     While True
     	If 获取血量蓝量百分比 < 加血百分比 Then 
