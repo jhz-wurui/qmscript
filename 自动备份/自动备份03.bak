@@ -8,8 +8,8 @@ StopHotkey=123
 StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
-MacroID=bfa727e5-2f85-4928-b210-b3d6e3585c7d
-Description=棋牌游戏-喊喇叭
+MacroID=fbf8a37b-2a26-4280-90ea-6ef3ec1102dc
+Description=大漠单开模板
 Enable=0
 AutoRun=0
 [Repeat]
@@ -27,7 +27,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQIbtPUyG7T1Ps/XlUE8kf
 
 
 [UIPackage]
-UEsDBBQAAgAIAGy1h0i1eJzzjw4AAAh+AAAJABEAVUlQYWNrYWdlVVQNAAd64gZXeuIGV3riBlftXQ1wVNUVPm9JwiYEN0EDcdFm1aDhRwlk/0CIMVFM+NHInxEBE5LABpPdNT+64g8RUf6qBGoxLVpxah2mjpJO0cFOpzK208m0UuOg1Rlm2nS0HTp22kxxlOlMpee+fW/3vt1s7ju71zyd8pjD3Unu2/POu/d+53zn3PcyAaLH0HuFwy/9zPkXSDgqYQJ8dSEXcrifKZqoRwGADaLy1YULF/QfX7h4fKuO/6Jk4bh5UNhYZ6NMRMlFsaPkoUxGmYSSj3JJdOjBgVKIcinKFJTLUKaiFKFMQ7kcpRjFiXIFynSUK1FKUL6D4kK5BuUqlKtRSlGuRZmBch3KTJQylFkoc1Bmo1yPMhflBpRylPko81AqULwobhSfNh8XYutHWYByI8pilEXa7766OOyxYyWE8F83jsetEMS2Ex4CyjEVZ4z+XYqgb+PhBe+e6XtfmYCfT5ZGf7YG6tSxTPewg6Lo+hcI9Oot/7saWA3LM7iCPE5/dhr6V+P9DkMr3A5N0IEt9ZgCNlV/oYa9Zs/L0lp9PVyU/09ZEurseHZis7IP5xECe1b9q3ucEaXI9Pxj58/LYP0qkNmR6fmZHscH3v1rJvYTluzXcn66uBPHP5sh5jM7ZjpWMq/TBJugPc1ruATn7SQtTjGr38bh31pogy6UdK+gIA37J3D6V6LWJmiBO/A+tBN9r47/+dp3mtWfxelfjfoj6PczGH+Fan82N/41GH20o3SmeSWXpaE/h7M/rr8ax6EZ7qPrV+NlB+H+T0wY/+YM7z+Lz+0E/XaIxvD8sQEXxRfYjtyzy2nv2+McyVHUeJ4d55RozF5oi2GOqqf2hNehn8/6F2qfu7T+BxRj/6pPvI5yrv8U7fMBrf+xhP4n/mPsf6n2+ZjW/5QSvZex63nZ2F/3Yh9q/c8lfP/5YeP1i+wt+Mz4/czeL0a/56qmFatcq5qCXa5VrZ1tm0fplGhvVbZbaC/fv2GlzzHj1Y2m7a3f4DN8P7N3HSJPJ+JPK/6fLv4WaWvK7PzL5eb/clx79FVnnP8F2veZ1Z836vpfhdcRwPtA84bFuP51DmxW/yRO/80Y/YdVH9CJEsRroHmhqWh/LkR5uVn9+Zz+JWh7MDP8Ifs/hleLYva3o/fdgtfA7nswHfwn67/EMP5NeP+78RrYfahWx0H3BPG5kfooS8P/ODj91er3R9efGX2jzD/lMojn3cycU8DpZ/jB4v/pk3fYhsCTxeO/CJ+P3uh36CpN4VWxj4TPJ3eWJOFVIj7f1hnqCVeHIuznjWW+JHweyx+N/NHt0M+vMGFvfaEnCZ+VMew92eIR2qtw/f1Pe4T2GvzjKZr/DbQl+9/VOPO71dg3ndmn4g95/RVy868e9UdQeztG4Wn6H7L+KYb1z/I/6TO4PBxBNiwsd3l5ij7jkf+h2M/mrV37bAX/Y3iVq32Wwf/0nLJZ/UUglf8pLiL+TgWp/E/NsU8j2D8NrOV/rC6QE1t/48//Lgep/E9htY1rCPffCXL5H6uhXEHQPx3i/O+tl3/15/c+Hd3/nnjOR/JHA1nFJP/bsMttiB9E/ne4xZ/kfx9SovdyrS1a6+H729edmSTyv3zexP5GCclee8hP8r8N6/1J/nfCGPbuzq8i8cEj9y4hxVfFzX6HBP5Hxv8rQC7/K9Uwxaz+K0Eq/1NmEPH/OyCV/6n2XE2wvwSs5X8uiPM/CfyHrP8qSIz/5mdgf7z+NzNFn29a/Mfmiu5/M81fMf4Y4y93eUl4NfxJpaO6p7s7FDSHV4Gzyf4oev78UfE5Ulci9Ec8/+qf5SHlJwdGPA6FYG+kYXASBZ9dK6cJ/dHxf7/90ze+/N0HzI8PbPfQ/O9cj8OK+J/FShO1zzLif31PiFn9pWBt/WcGyK3/sDG/jmD/tWBt/M+uNT+Gv+Mf/5eB3PoP25tUQbj/M0Fu/M+yF3MI+mdBPP5np7D83+E8W/YpvCw9/8d+d6RdnK/j8b++hcYXRkbcju1KlI8OKdH7MhZena/yJeFz1hj4XPB7Wj2l/l5afjKy3ueYQLC3dq+XhM/Dh3xCf5SJ/67d65YR/ysebU6ZnX+zQW7879bWtFn9c0Bu/YftOfQS9F8Pcus/7PvmE/TfANbG/8xf6/G/Ffnfcs7+29Wx78B73552/YXp9RPu/zxOfy3qeyBt9hMdf6r98zn97GD4fyb3nexCDf/LD0bx/+N/iPFq7puBmN19+9yk+LlqmdfhfjtgGp/PT3Yn4fP0l1anxOdwwvWPhs9R/qD1P0TE55ESjb9UmNvP4PWS6kcun5dUP7If8pL8b+S3bkc9zrdWXHtd+H9LGnPQmcb6q4BE/l2RAf4oCrNzE4cpicc3jX8zf5UTw5/x51/MX8vkX9WqHzOPf16wln/5QC7/qsF2IcF+P1jLv1iePD8B/6fn7sg5puF/76Eo/pcHxfmc4+d+8/pHZ37xHss/lO+h7b8aOLzIkP8X4dXJKncSPjP+kQqfXYMLhf7otMY/Sm1R/kHhC/ZhryObYG94mIbP4Z1if8TXL8pupvnfwY9KHVbw74Ugl39XAotjza+/G0Eu/74F25sI+hdBnH/L4F+1EH2+yaz+xSCXf92m3VOz+itBLv9aim0dQf9NIJd/VQHzo+b1V4G1/OtmMMZKDP/vsVdPPKfhv/78RwCCThFeZZJ/aHjBY6ifivDqfF2yP2L8IxU+Ny4V+yPGP2L5qD/c56Tg81DA42D8Yyx85vt/fDa5vlAXDPd0V4cio/Kjv3uE/lc/n3G6wZ8EnBT/W/5KwGkF/64G+fx7GWH91YC1/PsW4Pe/jT//uhUS+Zc7A/yJ1z/vSNFnPPjXPYTxZ7GClfvfmL+Uuf9tjXofzdtfy42/ouH/0XybHfEii2H/ibnbnKPhxeBzyfGrMgY+9j1Jq0eeDZaS4tfaY8sM/kOYP2r0J/kD9quU+2OOi/fjsrw3+9yCP3sTjPxBZO/QPz2OHIK99bYSUj2juF68/1jG/se12K4nzL86kMu/67FdQdC/FKzl3/z7MiTwLzL+LAO5/OtObO8m3P/lIJd/3aV+j3n9K0Aq/yLf/9tBLv9ap32nWf13gFz+dS+2Gwn660Eu/9qAbQNB/51gLf9ic9XK559Wcfbz+aPazUtI/rd8Zw3J//Zj/0R/lAl/TIw3epdudlL874lFNST+6VpcQ6rfBJ6/krR/Yiihv3C/9Z/qHLPeCJi2d7Aj+fmfelx1jH08qO3DpB5T0ph/q7n5twJ6cAWw5++WowTJMQjLP7L53ERY/2tAPv+k2L8W5PLPRqDtP74rAf+acQy6xvH5rwZOP/M6narmdu3py68f/+6GRP7ryQD/FTWeYbidau6OB/+9nzD/Wbyg1y1Y/irG1953057P/HCxw0bAq8jU5HrG8qZNre0p8Coc8gv9kXr+PA1v/+Yj8aPeknanQrD36Kc0/jvyPI3/BgI+kv8Nn/Y4fvnpic/Lfv3ZTDP2QkI+twisyX+wXI3Oe2XkP1j0vJUw/9eD3Of/2tmYEvRvALn8l8VGzQT9G8Fa/sv4gj2Gv+Nff2wEufx3C7Yhwv1vArn8t4NhB0H/JojzX/35/7K8HXnDUBnL/5nBK/up5aTn9/zuZHx+HPuw+/eqArG7EHuezS3ej8u//yWSVUmKnwd9W51AwOe+1zyk5/fOv+Yh+SP7Qg/J/4axf0b8CazJfzSD3PxHGNsWwvxvAbnP/zG9nQT9rSA3/9GGbZCgfzNYm/9g693K/EcAeP8Xve9dOApNai2Odg3pPH/YZhj/HtQXwtnXBtvSi//J+rdC8v7fQG71pEEIGPBfhFfl+wMG/BThVf/+gJMSP/f7twrzOXr9W8XPIO35vYaDYad+foUZexOup0i7/lT2wsYtwv0E/P5d15c0vnDkRaP/Eu633lGb5I+i/NebwfqP1n/34ucHU/QZD/77BAH/mLexsv7L+ILM+u+j2D5CsL8D5PKfx7DdSdAfBLn8hy3+HoL+EFjLf8IQf2+tFfW/+zn7PRr+H7Xb8stgiwH/RfFz37wtpPj5yL/udybiM/tVSr7wQYdTFD+/pUT57OfY7gBj/V3kj8rw+u0CfOb7F28PkuoLZY+EnSJ/xNdf+hL6C/czYH+K/x14LHk/nwz+y1bt44T11wly+e92bLcR9HeBtfXfbpDLf9i8f4Bgfw/Irf/uwvYpgv4HQC7/eRLbXoL+B8Fa/sP8lZX85yHO/kzyB/4fe0n1X1c+Lb+xO5/2PsRIJQ2f4bTX8P5cUfwcOJ28/5jVX1PZe3RxULgfl6+/FFQGSfuP7S7a+x8LPk/2v1bUf7eB3Prvw9juIaz/h8Ha+u8jILf+uxto9d9Hwdr672Ngbf13OyTWf30Z4L8S0/90ij5fN//9IXH8eyHOf2X+LZGLx7fvqAl1bApVhyJnc96ZzJ7/YdwvfHCbyiv6T3cI/ZF+PnunQe862vuXe1e2GervIv97FvtT9l8N3E17n0vxOtr7a+DFRST/G3kl+fnMsfjv7uu2Cvkge+5ukP0Mhf0RP4q9DWVbnVbkvxhXlJn/+h62Bwn+fwfIzX89S8TfJ0Bu/usZbPcR7N8J8vNfPyDol7z/XdX/I4L+J0Fu/X8/ts8R9D8FcvMf38e2j6B/F1ib/9gNcvMf/dh+l2D/HpCb/3ge28ME/XtBbv7jALaHCPr3cfp1HDbjf2EG7f2e4YjY//L5z8Yimv/tm03jv/YFNUn+N5P8B7PXBjnHz518fWAwZ+gl1lD8b8FTPsP7Q0X2BtbcSnr/RUONuB5qRf6LrVU9/1WHutma60pTf34a+p/m8G+V+uxzFINbxyn/8QxYm3/YD3LzDy8ALf7pA2vzDwc4/XWona2A9LSnl384CMb9F5keVP38wT8/IsKrRlfy/jqWv0yFV41zxO+v4Z9/6d3U46Ts3zg/m+aP+t/sor0fIaG/8O/x3NBNyj+XX1VJe9/0z3tI9cGz13cL7f0fUEsBAhcLFAACAAgAbLWHSLV4nPOPDgAACH4AAAkACQAAAAAAAAAAAACAAAAAAFVJUGFja2FnZVVUBQAHeuIGV1BLBQYAAAAAAQABAEAAAADHDgAAAAA=
+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
 
 
 [Script]
@@ -39,67 +39,23 @@ Dim 延时, 颜色色偏, 相似度
 颜色色偏 = "050505"
 相似度 = 0.9
 
-内容 = Form1.InputBox2.Text
-
-间隔 = clng(Form1.InputBox3.Text)*1000
-
 Call Lib.DMEX.dmzcDefault()
 
-喇叭类型 = ""
-// 大喇叭小喇叭
-If Form1.ComboBox1.ListIndex = 0 Then 
-    喇叭类型 = "大喇叭"
-ElseIf Form1.ComboBox1.ListIndex = 1 Then
-    喇叭类型 = "小喇叭"
-End If
-
-TracePrint "喇叭类型："&喇叭类型
-
-最外层_hwnd = dm.FindWindow("testGamePlaza", "KK竞技")
-
-喇叭_hwnd = 最外层_hwnd
-
-TracePrint 喇叭_hwnd
-
-If 喇叭_hwnd = 0 Then 
-    MessageBox "请进入房间再启动脚本!"
-    EndScript 
-End If
-While True
-    Call Plugin.Bkgnd.LeftClick(喇叭_hwnd,860,689)
-	
-    Delay 500
-	
-    弹出_hwnd = dm.FindWindowEx(0, "CUiTrumpet", "")
-    TracePrint "弹出_hwnd:" & 弹出_hwnd
-  
-    If 弹出_hwnd <> 0 Then 
-        If 喇叭类型 = "大喇叭" Then 
-            Call Plugin.Bkgnd.LeftClick(弹出_hwnd, 75, 44)
-        ElseIf 喇叭类型 = "小喇叭" Then
-            Call Plugin.Bkgnd.LeftClick(弹出_hwnd, 153,45)
-        End If
-        Delay 300
-         
-        Call Plugin.Bkgnd.LeftClick(弹出_hwnd, 69, 178)
-		
-        Delay 200
-				 
-        SayString 内容
-        
-        Delay 200
-		
-        Call Plugin.Bkgnd.LeftClick(弹出_hwnd, 164, 299)        
-    End If
-	
-    Delay 间隔
-Wend
- 
 Sub OnScriptExit()
     dm_ret = dm.UnBindWindow()
     Call Plugin.RegDll.UnReg("c:\fuzhu\dm.dll") 
 End Sub
 
+Event Form1.Button1.Click	
+    regCode = Form1.InputBox1.Text
+	
+    If Lib.字符串.isEmpty(regCode) Then 
+        MessageBox "注册码不可为空"
+    Else 
+        //此处的appid需要更改!
+        Call Lib.RC.activate(regCode, appId)		
+    End If	
+End Event
 Event Form1.Button2.Click
     Call Plugin.File.CreateFolder("c:\fuzhu")
     PutAttachment "c:\fuzhu", "Dbgview"
