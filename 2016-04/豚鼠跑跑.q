@@ -27,7 +27,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQIbtPUyG7T1Ps/XlUE8kf
 
 
 [UIPackage]
-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
+UEsDBBQAAgAIALCzlkjznXDZkA4AAAjQAAAJABEAVUlQYWNrYWdlVVQNAAfUpRpX1KUaV9SlGlftXQeYVNUV/t8uZRdWBKKIoAYFjGKhCyq2RUB0QWQRK8YFV0CX3c0WRI29JLbEXhI1Yi8RRQU7mERFsSA27IpREzX2iC2A58ybYR8DE9+59zCHkbl+xzsfO2/+d9u55z/nnvcKEZbnFrR7Z/rMTouRVnZFIZYtL0aLyL8FSUmUtkABQlm2fPny1D8vz5ecKktJmtG47UDCY92cpCVJMUkRSSuS9Uhak5SQtAmHHuuTtCP5BUl7kg1IOpBsSLIRycYkHUk6kWxC0plkU5IuJJuR/JJkc5KuJFuQdCPZkqQ7ya9ItibZiqQHybYk25BsR9KTZHuSXiR9SHqT9CUZQNKPpD/JwOSc3InqHUl2JtmFZFBiXgO7k+xGsgfJYJJSkj1JhpIMIRlGMpxkL5K9ScpI9iEZQbIvyUiSUSTlJPuRjCYZQzKWZH+SA0gOIjmQ5GCSQ0kOIRlH8muSw0gOJxlPUkEygaSS5AiSI5P3vixL4z8aNfRfA43LEFRTXYdjISkdaMakfiv4ie/Wvnf8xOuuXBgUIjkAif4anhhL11KEIEjh7/YTuKk6+rfBNHJlHnfQKoLf3AF/DPV3LY3+SJoJUxKzQFbaoyCB3y6pe+Ne1yxZp+ZaXtZNGVpTN8Vj+YGv7+1xfQC/4nu9b7nnzqff92m/YMmuketd9U6T/itYyeaLO2YpXcm7TgXthFWO99CG9F9rhHZKXPyCiP4bi8moJ3G9g7YO7S+M4I8m1Ara+felfqgS7r0p/V+S/M24+M0i+GMIfxrt+x7jH0jb3zwy/oPJ+qgiqXO8kw0c8FtE2t+EX0rjMAFHy/ET9vL6gv5vmTb+Ezz7n+3zIgF+EUIbPlrG0aJYgtwrLY3xl6y+zxPb0ojyLuUV1fVdyivrJh+5hvC733aY1/UHk+apI/1TSf93Kax/N0yuqbjzrzgy/8to7clX3crzv23y9+Lit1rt+i+n+5hE/SDbDTvS+k9x4Lj4rSP4e5D1X5vYA+pIqukeZLtQB2p/MUJeHhe/JII/lNpe7ad/xPsf66tBK9pfRbvvRLoH7vdqF/0vxm+z0vhXUP830D1wP5QmxiG1EzTNjcxlK4f9Z/0Ifmni98P1FwdvNfMv2ABNfrc417SN4PvqD1/707cMr65tbCitmeZ7vasNn+v8ZQzN/IaE7esy+xL6R7z+2kXm3yjCn0boVWSFu5Q2DvjtV1r/7P9xZ3Ds/2E+wT7KjTN8Jxv+n+6Ir/95vypKfrbgf6yvipOfNfgf+5I3E7R/Q6jyv6ALQt91XPwO0OV/7GPfSIC/EWz5XzRepMD/xPOvI3T5H8c2ugr6f2Po8j+Oo2wiwO+EVfmfa/Hd/znu8wLJRNKKHztcb71/Fhrj+/JPBf4nXn+docv/uiXXdFz8TaDL/1Kxyrj4m0KX/3G8dAsB/maw5X+8X1vyvy6I2p8VtP/X45gkD5OW9g74m0fwR6CReoD5ZxlJtdgGYf8nz6dtBOO/RQQ/14svf+0xa5LX9Z2njzFtf2ljQ0NNtfv1IxPzfgqtgipn/4N0/neNzL+9CG+qs/cj1H89IPN/dEvTfxNoDdZnkf92j+DzrlOXQK5Kep/WvP7bEun8t4/z/Imef+iZ4TvZ4L+S9vN+2WLF/M8+/2VbIRW30OC/fOapH+Lr/60j4x/qD3f/R677vxZde9din+t9+Y/v/jU1CPnTg1R/5HC9Rfy7B3T9H3x2cTvB/N8Gtv6PbbE6/pG9+Pd20PV/sPbYUdD/20PX/8FnP/sI8Huiyf+hEf/k86W9BPi9oMt/d0r2aVz83hH8AtiWXPef+Jaes/34R7+5ftdr+D9SZ6vjzr8+0PV/8PnvgQL8vrD1f/RDk//DIv7VP9J+Lf63q6D/d4Au/5O2fwCi/p86QmcPUCXtAvJ76OTQ/wORzr/6esy/IOB40hkI8xhWV/4f//L1Xwyrq2ms9Yi/p6537YFc5x/3Xz/n7QXv2eFb8G+2FS3jz2wvacafOU9omED/7Qzd+PNwyPxfg6DKvxI5VLsL2r8LbPkX71Up/48F/9oNqvwr4Ny1MkH/7x7B9/VfHBuEvzW2IFzX0mJt/+c6//D1H2nwb86RHCKYf3tAlX+L9X8pdPn3iGSb4uIPhmr8ORgJmf7fE6r8K5E3u4+g/UNgy7/4fgetmAve52/F+MOQbv/382h/U/xldIbvrG3xF7aXLOMvbC9pxl84z/sAwfzfG7b5Z/sgPf7j3P3J693jhzmf//nl3FtnfTP/ReZxLtdbx4804i/8rINRgvlfBlv7n/frkuRnC/t/JHTjL+zBOVTQ//tCN/7Cz7jYX4A/CrrxF14B5QL8/aBr/41L/mZc/NHQPX94OMLnisTFL4/gnxSE58GfC8JzAdJifY4sHz/yi/9oxF/4uTeHCObfGNja/6yrLOMvY6Eff6kQ9P8BsI2/HAjb+MtBSOdf/T3mXxDwftoIZFw5axv/4v06xb9848e+8SMd/uEeP8t5/vHVozMWvf7AAlf+YcG/ea/Q5N9svR0l0H+HwpZ/j4Pu+bcqhM+Qi4t/GGz5F9uqlvzrcOjyr4lU1wj6vwK6/Isf4DVJgD8eTfzL2v/wQpJ/dCtw4x/NYVvy+X8FwW8QPrcy7vybAF3+XYvw2Zlx8Y+ALv9m5lAnwK+E7vm3yVRXC/CPhC3/Yn1pyb8mQZ9/NQj6fzJs+ddR0PPbWJ9fXVvOr+Xq82Ms+PfRSOffO3jon6b4Z6ZBXNv4N9vrluff2F7UPP92ItUnCPRfNXTPv50E2fmHGuief+OrpgraXwtb/sX2mpbdPGDm7Lunw6748pcuCJ/HUhSE80JaWsC2+PIPC/5dB93zj8dRfapg/dVDl3+fTPXxAvwG2J5/a4Qu/zqN6mME7Z8K3fNvp0Om/4+B7vm331J9iqD902DLv3i/GqSkf6zPrw6umTK+xsN+T12/rj7/0eL843FIt/8HeMz/IOHP/CvJ7zN8Z03b/5cI9Q/vFZb2P+srTfv/D1SfJ9B/J0DX/v+jsP9PhG785SyqzxS0/yTo2/8XC/CVn7+YwL9CgH8ydOMvZ1N9oQD/FOjaf+dTfY4A/1TY2n+nIf/+n3VV0gs8i+9PcC4c7/5PITxDKS3W73/I9fifBv+7iOrfCfTf6dCNv11G9aUC/DOgG387l+oLBPhnwpb/8Vil+N9wwuY+r3fEL3HAZzu9c/JzeSL2F+7BlVl6/uZZ0I//SfDPhm7873LI7N9zIviFKHj2rVb3fb9w+v2vLZw353+t7r0n9TEr+ivXn9/pe/9lFeMrq3yv93gBncXzL8+NzL/hhM4a0A3d7fmX5yHd/zDQuf+i8cerMnwnG/HHWxB//2G+3nyF/su+/4H5eipuouF/uI7qawXtPx+6/ofrqb5NgH8BdP0PV1P9ZwH+hRH8XPdfPvz57E99rrd+/9EghPkgbL9Odri+yLP/LOLPF8H2+ZcXQ9f/9BeqbxKsv0ug63+6geprBPiXwtb/dBl04483U32loP2XQzf+yLi3CvCvgC7/5PMXNwrw/wS983/rev6ldfF9/52F/4FtFcv3f1yJaPwlXHf1tAorEmchZffgEv+8aqX130h4NaR9JuM4N/tfjH810vmPy5O7UuMfBKxPnie5I8N3ssF/HhToP96vLeOv10A3/jqL6nsE7Z8eGf+U/nB9gkuu84fevXqZ4vvyBz7Ly/xhBsJz/dKiwX9nU/2QYP5dC13+eyfVtwvwr4Pt+Vv2F6TsJov3H94AXf4zk+r7Bf1/I3T5z71U3yXAvwm2/Odm6PKfB5LrPy7+LRH8YtiWPH+wLRrx17lUzxHMv1uhy38fpvo+Af5tsI2/8llFS/5zO2zffzgDuu8/vJvqvwnG/w7Yxn/vhG789xHI4r8zI/jr+vsTtfI/c5U/WcR/74Lt+w/vRrr/ozdcWWBJJP77WIbvrG35p+wrsPR/sL9C0//BZwfnI77+nw3d+O/TkOnfe6Gbf/o41f8QtP8+6Pn/+/S3TQDVyP/kfDDO/3zGaf7bFl/+ZOH/YF+B5fs3HoBu/uk8qhcI1t+D0PV/8Lx9QoD/EGz9Hw9D1//xHNWPCto/B7rx34WQ6f+50M0/fZLqZwXtfwR6+v/nkv+5rsY/LPwfzNUt37/xd6xq/7seoSX7P/F7/yJ5KcN31rT9/65Q/7CtaGn/s67WtP9fp/o1gf57DLr2/xvC/n8cuvGvlxG+Azwu/jzox78Wwzb/9AMB/hPQjX8tovptAf6T0LX/3qT6FQH+fDTZf75FI/+Pz2Myh5/hcH1r2Jb88z/l+v8p6Nr/71D9omD+Pw3d/EN+fes/BfjPQDf+9SrVbwnwn4Vt/Iu5smX+IfPF1BNHLPIPF8I2/vQ80vL/Ojbl/81fuujlWY/27rvow/lL57zZsSkbMPmH/uEf1PRXPv9PIf/P/fVrKvHH9yGzf19I0z/Zjj+9CNv8w5ewKv90HcJU/Ok7+vxRhu9kI/60BPH3H+YrlvmHbK9r5h9+TvVngva/Al3++QXV3wrwX0U+/y9V1ob8P47Hck7WPKf171c0/A8fU/1vwfx7Dbbnb1+Hbf7hG9D1P/yH6v8K+v9N6PofvqT6EwH+W7CNP70NXf75NdUfCtr/DvTzD78R4C9GPv/v51J88/80/A+8AX8lmH/vwtb/wL4ay/O378E2//B92OYffoBV+Y/rG/w4/pbCzvTEomzwHz4/FLf9HCu0jL+xrVacpj9c+z+f/+dXNPL/mD9w7OQJh+s1+G8BDWIgmP8fQpf/FhJ2sQD/I+jGX5dS/T3i438MW/7DfMEy//AT6PKfZVS3EIz/p9DlP80YWzD+n8GW/3weaf96sC15/mBbNPhvS+qtHwTz/wvoxl9LCL+1YP1/Cd34ayvCbi7A/wq2/Id9RZb852vY5h8ugW7+IWuLNoLx/wa28d9vkc//y5ewaMR/1wtk8d/vYBv//R62+Yc/QM//ysXnef4/AlBLAQIXCxQAAgAIALCzlkjznXDZkA4AAAjQAAAJAAkAAAAAAAAAAAAAgAAAAABVSVBhY2thZ2VVVAUAB9SlGldQSwUGAAAAAAEAAQBAAAAAyA4AAAAA
 
 
 [Script]
@@ -45,7 +45,7 @@ dm_ret = dm.SetDict(0,"数字.txt")
 
 hwnd = dm.GetMousePointWindow()
 
-Call Lib.DMEX.BindWindow(hwnd, "gdi", "windows", "windows", 0)
+Call Lib.DMEX.BindWindow(hwnd, "gdi", "windows", "normal", 0)
 
 金额_7 = clng(Form1.InputBox2.Text)
 
@@ -77,7 +77,7 @@ While True
     Case 2
         Call 反选冠亚军数字
     Case Else
-        TracePrint "7倍不下注"
+        TracePrint "25倍不下注"
     End Select    
     
 	
@@ -92,217 +92,46 @@ Sub 跟选冠亚军数字
     TracePrint "[跟选冠亚军数字]"
     Dim arr
     arr = 获取当前得分()
-    If arr(0) <> "" Then 
-        For k = 1 To 9
-        	If (k = clng(arr(0))) or (k = clng(arr(1))) Then 
-        		TracePrint k
-        		Select Case k
-        			Case 1
-        				下数字251
-        			Case 2
-        				下数字252
-        			Case 3
-        				下数字253
-        			Case 4
-        				下数字254
-        			Case 5
-        				下数字255
-        			Case 6
-        				下数字256
-        			Case 7
-        				下数字257
-        			Case 8
-        				下数字258 
-        			Case Else
-        				TracePrint "无任何匹配"
-        		End Select
-        	End If
-        Next
+    If arr(0)<>""
+		For i = 1 To 8
+			For j = i+1 To 8
+				TracePrint i & "-" & j
+				If i = cint(arr(0)) or j = cint(arr(0)) or i = cint(arr(1)) or j = cint(arr(1)) Then 
+    				For cint(金额_7 / 100)
+        				dm.moveto 171 + (j - 2) * 85, 275 + (i - 1) * 60
+        				Delay 200
+        				dm.leftclick 
+        				Delay 300
+    				Next					
+				End If
+				Delay 100
+			Next
+		Next        
     End If	
 End Sub
 
 Sub 反选冠亚军数字
     TracePrint "[反选冠亚军数字]"
+    Dim arr
     arr = 获取当前得分()
-    If arr(0) <> "" Then 
-        For k = 1 To 9
-        	If (k <> clng(arr(0))) and (k <> clng(arr(1))) Then 
-        		TracePrint k
-        		Select Case k
-        			Case 1
-        				下数字251
-        			Case 2
-        				下数字252
-        			Case 3
-        				下数字253
-        			Case 4
-        				下数字254
-        			Case 5
-        				下数字255
-        			Case 6
-        				下数字256
-        			Case 7
-        				下数字257
-        			Case 8
-        				下数字258 
-        			Case Else
-        				TracePrint "无任何匹配"
-        		End Select
-        	End If
-        Next
+    If arr(0)<>""
+		For i = 1 To 8
+			For j = i+1 To 8
+				TracePrint i & "-" & j
+				If i<>cint(arr(0)) and i<>cint(arr(1)) and j<>cint(arr(0)) and j<>cint(arr(1)) Then 
+    				For cint(金额_7 / 100)
+        				dm.moveto 171 + (j - 2) * 85, 275 + (i - 1) * 60
+        				Delay 200
+        				dm.leftclick 
+        				Delay 300
+    				Next					
+				End If
+				Delay 100
+			Next
+		Next        
     End If	
 End Sub
 
-Sub 下数字251
-    For i = 1 To 7
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i, 7, 173, 278, 85, 0)
-            Delay 100
-            dm.leftclick 
-            Delay 200
-        Next 
-    Next
-End Sub
-
-Sub 下数字252
-    For i = 1 To 6
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i,6, 259,339, 85, 0)
-            Delay 100
-            dm.leftclick 
-           Delay 200
-        Next 
-    Next
-    
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(173, 279, 延时)
-        Delay 100
-    Next     
-End Sub
-
-Sub 下数字253
-    For i = 1 To 5
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i,5, 350,401, 85, 0)
-            Delay 100
-            dm.leftclick 
-            Delay 200
-        Next 
-    Next
-    
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(266,276, 延时)
-        Delay 100
-    Next
-         
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(253,340, 延时)
-        Delay 100
-    Next            
-End Sub
-
-Sub 下数字254
-    For i = 1 To 4
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i,4, 433,465, 85, 0)
-            Delay 100
-            dm.leftclick 
-            Delay 200
-        Next 
-    Next
-    
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(345,278, 延时)
-        Delay 100
-    Next
-         
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(350,340, 延时)
-        Delay 100
-    Next
-             
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(351,398, 延时)
-        Delay 100
-    Next               
-End Sub
-
-Sub 下数字255
-    For i = 1 To 3
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i,3, 527,526, 85, 0)
-            Delay 100
-            dm.leftclick 
-            Delay 200
-        Next 
-    Next
-    
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(437,273, 延时)
-        Delay 100
-    Next
-         
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(436,339, 延时)
-        Delay 100
-    Next
-             
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(435,401, 延时)
-        Delay 100
-    Next
-               
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(435,462, 延时)
-        Delay 100
-    Next                   
-End Sub
-
-Sub 下数字256
-    For i = 1 To 2
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i,3, 607,590, 85, 0)
-            Delay 100
-            dm.leftclick 
-            Delay 200
-        Next 
-    Next
-    
-    For i = 1 To 5
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i,1, 518,273, 0,63)
-            Delay 100
-            dm.leftclick 
-            Delay 200
-        Next 
-    Next                   
-End Sub
-
-Sub 下数字257  
-    For i = 1 To 6
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i,1,605,276, 0,63)
-            Delay 100
-            dm.leftclick 
-            Delay 200
-        Next 
-    Next
-    For cint(金额_25 / 100)
-        Call Lib.DMEX.LeftClickEx(689,649, 延时)
-        Delay 200
-    Next                       
-End Sub
-
-Sub 下数字258
-    For i = 1 To 7
-        For cint(金额_25 / 100)
-            Call Lib.ICEFRAG.通用技巧_背包式表格鼠标移动通用版(i,1,694,277, 0,63)
-            Delay 100
-            dm.leftclick 
-            Delay 200
-        Next 
-    Next                     
-End Sub
 // 7倍场
 Sub 跟选冠亚军
     TracePrint "[跟选冠亚军]"
@@ -331,12 +160,12 @@ Sub 反选冠亚军
     End If
 End Sub
 
-//Sub 下数字(num)
-//    For cint(金额_7 / 100)
-//        Call Lib.DMEX.LeftClickEx(158 + 113 * (num - 1), 129, 延时)
-//        Delay 100
-//    Next
-//End Sub
+Sub 下数字(num)
+    For cint(金额_7 / 100)
+        Call Lib.DMEX.LeftClickEx(158 + 113 * (num - 1), 129, 延时)
+        Delay 100
+    Next
+End Sub
 
 
 Sub OnScriptExit()
